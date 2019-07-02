@@ -32,3 +32,9 @@ PARTS MADE FROM: [thingiverse](https://www.thingiverse.com/thing:2735536)
 
 - [ ] Finish
 	- [ ] Gloomhaven lid stencil
+
+- [ ] Photograph
+
+- [ ] Thingiverse
+	- [ ] added parts as remix
+	- [ ] add to printed
